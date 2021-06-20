@@ -1,4 +1,4 @@
-#Wed May 19 07:01:18 ICT 2021
-base.0=/Users/anhjean/AndroidStudioProjects/flutter_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
-path.0=classes.dex
+#Sun Jun 06 23:21:21 ICT 2021
+base.0=/Users/anhjean/Documents/GitHub/Best-Flutter-UI-Templates/best_flutter_ui_templates/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 renamed.0=classes.dex
+path.0=classes.dex
